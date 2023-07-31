@@ -119,6 +119,7 @@ header {
 
 .tariff_title {
     font-size: 36px;
+    text-align: center;
     color: #555;
     font-weight: 400;
 }
