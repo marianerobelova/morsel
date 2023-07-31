@@ -46,9 +46,14 @@ header {
     padding: 40px;
 }
 
-.about_section h2 {
+.about_title {
     font-size: 48px;
     color: #ff6b6b;
+}
+
+.about_main {
+    font-size: 48px;
+    color: #333;
 }
 
 /* Стили для блока "Наши преимущества" */
@@ -68,7 +73,7 @@ header {
     padding-left: 0;
 }
 
-.advantages li, .about_main {
+.advantages li {
     font-size: 32px;
     color: #555;
     margin-bottom: 10px;
